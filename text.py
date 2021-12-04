@@ -1,2 +1,3 @@
-def fun():
+def funOrNot():
     print('hello world')
+
